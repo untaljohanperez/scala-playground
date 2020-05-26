@@ -1,0 +1,1 @@
+Exercises from the book: Learning concurrent programming in Scala
